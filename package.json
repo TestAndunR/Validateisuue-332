@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "aws-sdk": "2.176.0",
-    "firebase": "5.0.4"
+    "firebase": "5.0.4",
+    "slappforge-sdk-aws": "0.0.5"
   }
 }
