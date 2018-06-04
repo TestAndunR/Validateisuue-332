@@ -22,7 +22,7 @@ exports.handler = function (event, context, callback) {
 
 		connection.end();
 	});
-
+	console.log(connectionManager.name);
 
 	console.log("Validte sigma 334");
 	callback(null, 'Successfully executed');

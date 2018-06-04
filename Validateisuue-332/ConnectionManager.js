@@ -1,5 +1,5 @@
 module.exports=function(){
-
+    this.name = "Andun"
     this.dbConnections = [];
 
     this.dbConnections["Test"] = {
